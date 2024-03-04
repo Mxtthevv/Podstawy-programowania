@@ -7,3 +7,6 @@ public class Zadanie1 {
         System.out.println("Imie:" + " " + firstName + " " + "Nazwisko:" + " " + lastName + " " + "Nr albumu:" + albumNumber);
     }
 }
+
+
+// Zadanie 1. z ćwiczenie 1.pdf //
