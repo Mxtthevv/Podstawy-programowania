@@ -4,9 +4,10 @@ public class Zadanie1 {
         String lastName = "Dziubak";
         int albumNumber = 50042;
 
-        System.out.println("Imie:" + " " + firstName + " " + "Nazwisko:" + " " + lastName + " " + "Nr albumu:" + albumNumber);
+        System.out.println("Imie:" + " " + firstName);
+        System.out.println("Nazwisko:" + " " + lastName);
+        System.out.println("Numer albumu:" +  " " + albumNumber);
     }
 }
-
 
 // Zadanie 1. z ćwiczenie 1.pdf //
